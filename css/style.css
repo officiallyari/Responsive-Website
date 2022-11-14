@@ -142,7 +142,7 @@ article #main-col{
 	width:65%;
 }
 
-ul #services li{
+ul#services li{
 	list-style:none;
 	padding:20px;
 	border:#cccccc solid 1px;
