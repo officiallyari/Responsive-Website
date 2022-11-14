@@ -56,11 +56,11 @@ header li{
 	padding:0 20px 0 20px;
 }
 
-header #branding{
+header#branding{
 	float:left;
 }
 
-header #branding h1{
+header#branding h1{
 	margin:0;
 }
 
@@ -137,7 +137,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 	padding:5px;
 }
 
-article #main-col{
+article#main-col{
 	float:left;
 	width:65%;
 }
@@ -159,13 +159,13 @@ footer{
 }
 
 @media(max-width:768px){
-	header #branding,
+	header#branding,
 	header nav,
 	header nav li,
 	#newsletter h1,
 	#newsletter form,
 	#boxes .box,
-	article #main-col,
+	article#main-col,
 	aside#sidebar{
 		float:none;
 		text-align:center;
