@@ -126,13 +126,13 @@ header a:hover{
 	width:80px;
 }
 
-aside #sidebar {
+aside#sidebar {
 	float:right;
 	width:30%;
 	margin-top:10px;
 }
 
-aside #sidebar .quote input, aside #sidebar .quote textarea{
+aside#sidebar .quote input, aside#sidebar .quote textarea{
 	width:90%;
 	padding:5px;
 }
@@ -166,7 +166,7 @@ footer{
 	#newsletter form,
 	#boxes .box,
 	article #main-col,
-	aside #sidebar{
+	aside#sidebar{
 		float:none;
 		text-align:center;
 		width:100%;
